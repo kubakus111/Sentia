@@ -9,7 +9,7 @@
 16	WEAPON	icon/item/00010.tga	d:/ymir work/item/weapon/00010.gr2
 17	WEAPON	icon/item/00010.tga	d:/ymir work/item/weapon/00010.gr2
 18	WEAPON	icon/item/00010.tga	d:/ymir work/item/weapon/00010.gr2
-19	WEAPON	icon/item/00010.tga	d:/ymir work/item/weapon/sword.gr2
+19	WEAPON	icon/item/00010.tga	d:/ymir work/item/weapon/00010.gr2
 20	WEAPON	icon/item/00020.tga	d:/ymir work/item/weapon/00020.gr2
 21	WEAPON	icon/item/00020.tga	d:/ymir work/item/weapon/00020.gr2
 22	WEAPON	icon/item/00020.tga	d:/ymir work/item/weapon/00020.gr2
